@@ -1,0 +1,22 @@
+body{
+    background: pink;
+    margin: 0;
+    padding: 0;
+}
+.menuarea{
+    background: white;
+    padding: 0;
+}
+.menuarea img{
+   width: 200px;
+   height: 70px;
+}
+.xyz{
+    background-color: white;
+}
+.bookarea{
+    background-color: #3B5998;
+    padding: 0;
+}
+
+
